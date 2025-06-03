@@ -32,10 +32,8 @@ CalculateIT makes arithmetic intuitive, fast, and beautiful — whether you're o
 ## 📁 Project Structure
 
 📦 CalculateIT
-├── 📁 css
-│ └── style.css
-├── 📁 js
-│ └── script.js
+└── 📄style.css
+└── 📄script.js
 ├── 📄 index.html
 └── 📄 README.md
 
