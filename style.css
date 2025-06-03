@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Poppins:wght@500&family=Qwitcher+Grypen:wght@400;700&family=Special+Gothic+Condensed+One&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Special Gothic Condensed One", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body{
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+}
+
+h1{
+    color: #a7afba;
+    font-size: 110%;
+}
+
+.calculator{
+    border: 1px solid #818181e0;
+    width:385px;
+    padding: 14px;
+    border-radius: 10px;
+    background: transparent;
+    box-shadow: 0px 3px 15px #818181e0;
+}
+
+input{
+    width:355px;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 11px;
+    background-color: #353536;
+    font-size: 40px;
+    text-align: right;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(255,255,255, 0.2);
+    color: #cdcbcbe0;
+}
+
+input::placeholder{
+    color: #cdcbcbe0;
+}
+
+button{
+    display:inline;
+    align-items: center;
+    background: transparent;
+    border:#0a0a0a;
+    width: 71px;
+    padding: 25px;
+    font-size: 20px;
+    margin: 8px;
+    border-radius: 50%;
+    color: #cdcbcbe0;
+    box-shadow: -5px -8px 15px rgba(255,255,255, 0.2);
+    cursor: pointer;
+}
+
+.eqlbtn{
+    background-color: #e88426e0;
+}
+
+.operator{
+    color:rgb(142, 214, 34)
+}
