@@ -7,7 +7,7 @@ CalculateIT makes arithmetic intuitive, fast, and beautiful — whether you're o
 
 ## 🚀 Demo
 
-- Click here: [CalculateIT](gitarun009.github.io/CalculateIT/)  
+- Click here: [CalculateIT]([gitarun009.github.io/CalculateIT/](https://gitarun009.github.io/CalculateIT/))  
 
 ---
 
